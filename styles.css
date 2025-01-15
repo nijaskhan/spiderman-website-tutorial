@@ -2,6 +2,14 @@
     margin: 0 3rem;
 }
 
+.complete-background-image {
+    /* background-image: url('./assets/images/12513-NO8M4P.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+    background-color: lightgray;
+}
+
 .bg-image {
     background-image: url('./assets/images/spiderman_landscape.jpg');
     background-size: cover;
