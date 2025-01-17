@@ -43,7 +43,7 @@
 
 .banner-btn:hover {
     color: #000000;
-    transform: rotate(30deg);
+    transform: scale(1.1)
 }
 
 .custom-hover {
